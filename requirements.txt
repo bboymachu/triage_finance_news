@@ -1,0 +1,5 @@
+bs4
+openai
+requests
+streamlit
+python-dotenv
